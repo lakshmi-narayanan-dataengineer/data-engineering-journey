@@ -1,0 +1,6 @@
+ERROR:root:Please Login On time
+ERROR:root:Please Login On time
+ERROR:root:3hours Late loggin ,Last warning
+ERROR:root:-1hours Late loggin ,Last warning
+ERROR:root:c_134-2hours Late loggin ,Last warning
+ERROR:root:User ID: 'u_341' | 2 hour(s) late | Details: Late check-in detected by 2 hour(s).
